@@ -6,5 +6,12 @@
 */
 {
   "files": [],
-  "references": []
+  "references": [
+    {
+      "path": "./projects/designsystem/tsconfig.lib.json"
+    },
+    {
+      "path": "./projects/designsystem/tsconfig.spec.json"
+    }
+]
 }
